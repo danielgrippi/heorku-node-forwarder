@@ -1,0 +1,3 @@
+A simple node.js forwarder built for Heroku's Cedar stack.
+
+In order to set up forwarding, upload your app and run `heroku config:add location="{YOUR_URL_HERE}"'
